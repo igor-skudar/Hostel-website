@@ -2,6 +2,10 @@
 
 A responsive one-page website built for **ART VIBE Orbeliani Hostel**, a cozy hostel located in the heart of Tbilisi, Georgia.
 
+## Live Demo
+
+**[View the live site →](https://igor-skudar.github.io/ART-VIBE-Orbeliani-Hostel/)**
+
 ## Features
 
 - Responsive design
@@ -17,7 +21,7 @@ A responsive one-page website built for **ART VIBE Orbeliani Hostel**, a cozy ho
 
 - HTML5
 - CSS3
-- Google Fonts (Inter)
+- JavaScript
 
 ## Project Status
 
